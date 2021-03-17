@@ -1,0 +1,25 @@
+.card {
+    font-family: ‘Kaushan Script’, cursive;
+    font-size: 45px;
+    color: #267a8f;
+    text-shadow: 1px 1px 3px #fff;
+}
+.container{
+    display: flex;
+    justify-content: center ;
+    flex-direction: column;
+    align-items: center;
+}
+.block{
+    height: 40px;
+    width:250px;
+}
+.box{
+    height: 40px;
+    width: 250px;
+}
+.btn{
+    height: 40px;
+    width: 250;
+    cursor: pointer;
+}
